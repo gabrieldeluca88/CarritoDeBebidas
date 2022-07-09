@@ -1,0 +1,75 @@
+[{
+    "id": 1,
+    "bebida": "Fernet",
+    "precio": 1000,
+    "img": "img/FERNET.jpg",
+    "marca": "Branca",
+    "cantidad": 1
+    
+},
+{
+    "id": 2,
+    "bebida": "Vodka",
+    "precio": 2000,
+    "img": "img/Vodka.webp",
+    "marca": "Absolut",
+    "cantidad": 1
+    
+},
+{
+    "id": 3,
+    "bebida": "Ron",
+    "precio": 3000,
+    "img": "img/ron.webp",
+    "marca": "Havana Club",
+    "cantidad": 1
+    
+},
+{
+    "id": 4,
+    "bebida": "Gin",
+    "precio": 4000,
+    "img": "img/bombay.png",
+    "marca": "Bombay Sapphire",
+    "cantidad": 1
+    
+},
+{
+    "id": 5,
+    "bebida": "Whisky",
+    "precio": 6000,
+    "img": "img/jackdaniels.png",
+    "marca": "Jack Daniels",
+    "cantidad": 1
+    
+},
+{
+    "id": 6,
+    "bebida": "Whisky",
+    "precio": 6000,
+    "img": "img/honey.png",
+    "marca": "Jack Daniels Honey",
+    "cantidad": 1
+    
+},
+{
+    "id": 7,
+    "bebida": "Licor",
+    "precio": 3000,
+    "img": "img/amarula.jpg",
+    "marca": "Amarula",
+    "cantidad": 1
+    
+},
+{
+    "id": 8,
+    "bebida": "Gin",
+    "precio": 4000,
+    "img": "img/bombaybramble.png",
+    "marca": "Bombay Bramble",
+    "cantidad": 1
+    
+}
+]
+
+
